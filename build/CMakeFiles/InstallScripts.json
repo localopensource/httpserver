@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/dell/projects/httpserver/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
