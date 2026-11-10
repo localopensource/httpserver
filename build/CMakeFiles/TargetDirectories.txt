@@ -1,3 +1,0 @@
-/home/dell/projects/httpserver/build/CMakeFiles/httpserver.dir
-/home/dell/projects/httpserver/build/CMakeFiles/edit_cache.dir
-/home/dell/projects/httpserver/build/CMakeFiles/rebuild_cache.dir
